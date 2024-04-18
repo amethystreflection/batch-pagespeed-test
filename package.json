@@ -1,0 +1,18 @@
+{
+  "name": "batch-pagespeed-test",
+  "version": "1.0.0",
+  "description": "A script that tests the performance of multiple web pages using PageSpeed Insights multiple times.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lindsey Johnson",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.3.8",
+    "csv-stringify": "^6.4.6",
+    "psi": "^4.1.0",
+    "yargs": "^17.7.2"
+  }
+}
