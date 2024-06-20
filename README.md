@@ -23,7 +23,7 @@ that they are in the same order.
 ```
  node batch-pagespeed-test
  ```
-This runs the default version of the script, which allows you to run the script 10 times on production. To view the output, open pagespeed-results.csv.
+This runs the default version of the script, which allows you to run the script 10 times. To view the output, open pagespeed-results.csv.
 
 ## Number of Iterations
 
